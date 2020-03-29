@@ -1,0 +1,125 @@
+body {
+  margin: 0 0 0 0;
+}
+
+.diff {
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: cursive;
+
+}
+
+.beg1 {
+  background-color: none;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.beg2 {
+  background-color: none;
+  position: inherit;
+  right: 540px;
+  text-align: center;
+}
+
+.bot {
+  background-color: none;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.last {
+  background-color: #66BFBF;
+  width: auto;
+  height: auto;
+  padding-top: 70px;
+  text-align: center;
+}
+.myla{
+  text-align: center;
+}
+.inside{
+  margin-bottom: 50px;
+}
+
+.firstcloud {
+  position: relative;
+  left: 300px;
+  padding: 20px;
+}
+
+#secondcloud {
+  position: absolute;
+  left: 150px;
+  top: 350px;
+}
+
+h1 {
+  padding: 40px;
+  color: #66BFBF;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: serif;
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+.p1 {
+  width: 350px;
+  padding-left: 450px;
+  padding-bottom: 50px;
+  text-align: justify;
+}
+
+.p2 {
+  float: right;
+  width: 400px;
+  padding-right: 310px;
+  text-align: justify;
+}
+
+#p4 {
+  float: left;
+  padding-left: 340px;
+}
+
+.image2 {
+  position: relative;
+  right:135px;
+   bottom:35px;
+}
+
+.image {
+  position: relative;
+  left: 160px;
+  bottom: 35px
+}
+.cont:hover{
+  color:#400082;
+
+}
+.cont{
+  background-color: #66BFBF;
+  margin-bottom: 60px;
+
+  padding-top:6px;
+  padding-bottom:6px;
+  border-style: inset;
+  text-shadow: 1px 1px 2px #ffffff;
+  color:#ffffff;
+
+}
+hr {
+  width: 50px;
+  border-style: dotted;
+  border-top-style: none;
+  border-width: medium;
+  border-color: gray;
+}
+
+.footer {
+  text-align: center;
+}
